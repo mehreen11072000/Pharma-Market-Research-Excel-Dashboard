@@ -61,8 +61,6 @@ The objective of this project was to simulate a real-world market research task,
 
 Hi! I’m **Mehreen Malik**, a Data Analyst with a background in business intelligence and data analytics. I love transforming data into actionable stories using tools like Excel, SQL, and Power BI.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/malikmehreen)
-
 ---
 
 ## 📬 Feedback & Collaboration
